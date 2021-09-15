@@ -1,0 +1,16 @@
+*.iml
+*/target
+*.diff
+*~
+.*.swp
+*.orig
+.project
+.idea/
+target/
+
+.classpath
+.settings
+.metadata/
+*/logs
+*.tmp
+.DS_Store
